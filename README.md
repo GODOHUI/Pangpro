@@ -1,4 +1,4 @@
-#펭귄집 구경하기
+펭귄집 구경하기
 ---
 ![이미지](https://github.com/GODOHUI/Pangpro/assets/167048089/8866e2c3-de8d-4205-af34-8ce4dbe52169)
 
